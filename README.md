@@ -2,6 +2,7 @@
 
 ## I'm `Creaml4tt3` also known as `Teekayu Poongkawabutr`
 <!--![](https://res.cloudinary.com/duoaqfhpz/image/upload/v1684772447/creaml4tt3.me/jwysz04skc0qasomtkoi.ico)-->
+[![wakatime](https://wakatime.com/badge/user/5ea5ee42-e683-4f98-90a5-7f7e91423033.svg)](https://wakatime.com/@5ea5ee42-e683-4f98-90a5-7f7e91423033)
 ![](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)
 ![](https://img.shields.io/badge/ReactJS-100000?style=plastic&logo=REACT&logoColor=white&labelColor=10BDC2&color=black)
 ![](https://img.shields.io/badge/Javascript-100000?style=plastic&logo=Javascript&logoColor=white&labelColor=FFE519&color=black)
