@@ -1,47 +1,65 @@
-### Hi 🖖
+# Hey, I'm Teekayu 👋
+### Full Stack Developer • Creative Engineer • UX-driven Builder
 
-## I'm `Creaml4tt3` also known as `Teekayu Poongkawabutr`
-<!--![](https://res.cloudinary.com/duoaqfhpz/image/upload/v1684772447/creaml4tt3.me/jwysz04skc0qasomtkoi.ico)-->
+I build high-performance web experiences with a strong focus on:
+
+- ⚡ Performance & SEO
+- 🎨 Motion UI / Interactive Experience
+- 🧠 System Design & Scalability
+- 🏗 Full Stack Architecture
+- 🚀 Production-grade Frontend Engineering
+
+Currently working at **Thairath News Agency** as a Full Stack Developer.
+
+---
+
+## Tech Stack
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css)
+
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+
+### Creative Development
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
+![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock)
+![Rive](https://img.shields.io/badge/Rive-black?style=for-the-badge&logo=rive)
+
+---
+
+## Current Interests
+
+- Distributed queue systems with BullMQ
+- Advanced Next.js architecture
+- UX engineering & interaction design
+- SEO-driven content systems
+- Realtime applications
+- Web animation & immersive experiences
+
+---
+
+## Stats
+
 [![wakatime](https://wakatime.com/badge/user/5ea5ee42-e683-4f98-90a5-7f7e91423033.svg)](https://wakatime.com/@5ea5ee42-e683-4f98-90a5-7f7e91423033)
-![](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)
-![](https://img.shields.io/badge/ReactJS-100000?style=plastic&logo=REACT&logoColor=white&labelColor=10BDC2&color=black)
-![](https://img.shields.io/badge/Javascript-100000?style=plastic&logo=Javascript&logoColor=white&labelColor=FFE519&color=black)
 
-![](https://res.cloudinary.com/duoaqfhpz/image/upload/v1684772447/creaml4tt3.me/jwysz04skc0qasomtkoi.ico)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Creaml4tt3&layout=compact&theme=transparent)
 
-- 🔭 I’m currently working on Portfolio that build with Nextjs has crud back-end for content and stunning front-end
-- 🔭 I’m currently working on Dear-me Project tell yourseft in future
-- 🔭 I’m currently working on Boonrawd HR prompt
-- 🌱 I’m currently learning NextJS
-- 🌱 I’m currently learning ReactJS
-- 🌱 I’m currently learning TypeScript
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Creaml4tt3&show_icons=true&theme=transparent)
 
-##
-- `Languages : HTML, CSS, SASS/SCSS, PostCSS, JavaScript`
-- `JavaScript Framework :  React, NextJS`
-- `CSS Library : TailwindCSS`
-- `JavaScript Library : GSAP, React-Spring, ChartJS, ThreeJS, Rive, LottieFiles`
-- `Backend : NodeJS, ExpressJS, NextJS`
-- `Database:  MySQL, MongoDB, Firebase`
-- `Server : GCP, Cloudway, Vercel, VPS, Shared Hosted`
-- `CMS : Wordpress`
-- `IDE : VS Code`
-- `Design Program : AI, PS, AE, XD, Figma, Blender, Rive `
-- `Communicate and Document Program : Slack, Asana, Notion, Miro, Trello`
+---
 
-<!--
-**Creaml4tt3/Creaml4tt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect
 
+- Portfolio: https://creaml4tt3.me
+- GitHub: https://github.com/Creaml4tt3
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Build things that feel fast, alive, and unforgettable."
