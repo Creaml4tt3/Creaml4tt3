@@ -74,7 +74,7 @@ And working at **Colab Cooperate (Web Agency)** as a Co-Founder/Full Stack Devel
 [![wakatime](https://wakatime.com/badge/user/5ea5ee42-e683-4f98-90a5-7f7e91423033.svg)](https://wakatime.com/@5ea5ee42-e683-4f98-90a5-7f7e91423033)
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+![Pinned](./profile/pin-Creaml4tt3-github-readme-stats.svg)
 
 ---
 
